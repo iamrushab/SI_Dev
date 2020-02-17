@@ -1,2 +1,2 @@
 git pull
-sudo sh run.sh
+sudo sh /home/pi/SI_Dev/run.sh

@@ -1,1 +1,0 @@
-echo "ae chodya"
